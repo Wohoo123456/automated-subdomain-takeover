@@ -1,2 +1,11 @@
-www.hbny.com.cn
+pop.crc.com.hk
+smtp.crc.com.hk
 www.crc.com.hk
+mail.crc.com.hk
+webmail.crc.com.hk
+pop3.crc.com.hk
+autodiscover.crc.com.hk
+en.crc.com.hk
+lyncdiscover.crc.com.hk
+owa.crc.com.hk
+vpn1.crc.com.hk
